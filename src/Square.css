@@ -1,0 +1,15 @@
+.Square {
+    margin: 20px;
+    position: relative;
+}
+
+.SquareControls {
+    
+    width: 200px;
+    right: -200px;
+
+}
+
+.SquareContainer .clear{
+    clear: both;
+}
